@@ -1,7 +1,7 @@
 # MultiprocessWordFreqCountBash
 Multiprocess WordFreqCount in Bash
 
-Usage
+### Usage
 
     Syntax: ./MultiprocessWordFreq.sh [-o|i|n|h|r]
     options:
@@ -13,6 +13,6 @@ Usage
     -c     Specify range (not implemented)
     Note: This program creates and deletes files marked with temp_*
 
-Example usage
+### Example usage
 
 `./MultiprocessWordFreq.sh -i "sample_text/t8.shakespeare.txt sample_text/t8.shakespeare.txt sample_text/big.txt"`
