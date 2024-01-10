@@ -9,7 +9,7 @@ A single process would combine all the file together, clean the text, and splits
     options:
     -o     (O)utput to specified file
     -i     Use specified files as (i)nput, use double quotes ("") for multiple files
-    -n     (N)umber of process to run simultaneously [1<n<99]
+    -n     (N)umber of process to run simultaneously [1<=n<99]
     -h     Print (h)elp
     -r     Prints in (r)everse (ascending) order (default is descending)
     -c     Specify range (not implemented)
