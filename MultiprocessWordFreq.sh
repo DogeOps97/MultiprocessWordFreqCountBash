@@ -4,7 +4,7 @@ usage() {
     # Display Help
     echo "Multiprocess Word Frequency Counter in Bash"
     echo
-    echo "Syntax: $0 [-o|i|n|h|r]"
+    echo "Syntax: $0 [-o|i|n|h|r|c]"
     echo "options:"
     echo "-o     (O)utput to specified file"
     echo "-i     Use specified files as (i)nput, use double quotes (\"\") for multiple files"
